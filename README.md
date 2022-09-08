@@ -2,7 +2,7 @@
 I'm a data analyst from morocco, Passionate about the world of Data (BI, Analytics, Data Visualization...), I'am happy to put my skills and knowledge at the service of the outcome with quality of complex projects, building trust, establishing methodology  and supporting end users in all phases of decision-making / IT projects.
 My field of intervention lies in the development and evolution of BI solutions: Data-warehousing, ETL, Reporting, KPIs , modelling and Data-visualization.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BadrAmassmir&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BadrAmassmir&count_private=true)
 ### Skills:
 
  * Python
