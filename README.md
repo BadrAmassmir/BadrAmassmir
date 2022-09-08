@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Badr Amassmir</h1>
-<h3 align="center">I'm a data analyst , Passionate about the world of Data (BI, Analytics, Data Modeling, Data Visualization, etc...)</h3>
+<h3 align="center">I'm a data analyst , Passionate about the world of Data (BI, Analytics, Data Visualization, etc.), I'am happy to put my skills and knowledge at the service of the outcome with quality of complex projects, building trust, establishing methodology  and supporting end users in all phases of decision-making / IT projects.
+My field of intervention lies in the development and evolution of BI solutions: Data-warehousing, ETL, Reporting, KPIs , modelling and Data-visualization.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=badramassmir&label=Profile%20views&color=0e75b6&style=flat" alt="badramassmir" /> </p>
