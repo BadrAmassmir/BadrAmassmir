@@ -3,12 +3,13 @@ I'm a data analyst from morocco, Passionate about the world of Data (BI, Analyti
 My field of intervention lies in the development and evolution of BI solutions: Data-warehousing, ETL, Reporting, KPIs , modelling and Data-visualization.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BadrAmassmir&show_icons=true&theme=tokyonight)
+
  ### Skills:
 
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+ ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
  * Beautiful Soup 
  * Selenium 
- * Microsoft Power BI  
+ ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
  * Microsoft Excel    
  * SQL Server Management Studio  
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
