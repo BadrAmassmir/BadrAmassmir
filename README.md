@@ -11,7 +11,7 @@ My field of intervention lies in the development and evolution of BI solutions: 
  * Microsoft Power BI  
  * Microsoft Excel    
  * SQL Server Management Studio  
- * MongoDB
+ * ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=black)
 
  
 
