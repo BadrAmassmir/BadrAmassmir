@@ -5,7 +5,7 @@ My field of intervention lies in the development and evolution of BI solutions: 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BadrAmassmir&show_icons=true&theme=tokyonight)
  ### Skills:
 
- * Python
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
  * Beautiful Soup 
  * Selenium 
  * Microsoft Power BI  
