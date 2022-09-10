@@ -19,9 +19,8 @@ I'm a data analyst from morocco, Passionate about the world of Data (BI, Analyti
 - 💻 &nbsp; Python | Beautiful Soup | Selenium | Dart 
 - 🌐 &nbsp; Android | flutter | HTML | CSS 
 - 🛢 &nbsp; MySQL | MongoDB | Sql server Management Studio
-- 📊 &nbsp; Power BI
 - 📉 &nbsp; Microsoft Excel 
-
+- 📊 &nbsp; Power BI
 
 <br>
 
