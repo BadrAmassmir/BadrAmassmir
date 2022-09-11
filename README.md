@@ -1,4 +1,4 @@
-## Badr Amassmir
+## Badr Amassmir 👋
 
 I'm a data analyst from morocco, Passionate about the world of Data (BI, Analytics, Data Visualization...), I'am happy to put my skills and knowledge at the service of the outcome with quality of complex projects, building trust, establishing methodology and supporting end users in all phases of decision-making / IT projects. My field of intervention lies in the development and evolution of BI solutions: Data-warehousing, ETL, Reporting, KPIs , modelling and Data-visualization.
 
@@ -7,11 +7,11 @@ I'm a data analyst from morocco, Passionate about the world of Data (BI, Analyti
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Flutter Application Development
+- 🔭 &nbsp; I’m currently learning Flutter Application Development.
 - 🤔 &nbsp; Exploring new technologies and problem solving skills.
 - 🎓 &nbsp; Studying Data Science and Data Engineer.
 - 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
-- ✍️ &nbsp; Watching movie and trying out latest design trends as hobbies/side hustles.
+- 📚 &nbsp;  Reading books and Watching movies .
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
 <h3>🛠 Tech Stack</h3>
