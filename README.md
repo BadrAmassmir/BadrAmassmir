@@ -16,11 +16,13 @@ I'm a data analyst, Passionate about the world of Data (BI, Analytics, Data Visu
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Beautiful Soup | Selenium | Pandas | Dart 
+- 💻 &nbsp; Python | Beautiful Soup | Selenium | Pandas 
 - 🌐 &nbsp; Android | flutter | HTML | CSS 
 - 🛢 &nbsp; MySQL | MongoDB | Sql server Management Studio
 - 📉 &nbsp; Microsoft Excel 
 - 📊 &nbsp; Power BI
+- ☁️ &nbsp; Azure Cloud 
+
 
 <br>
 
