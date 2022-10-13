@@ -33,7 +33,7 @@ I'm a data analyst, Passionate about the world of Data (BI, Analytics, Data Visu
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
- &nbsp; <a href="https://www.linkedin.com/in/badr-amassmir-392baa20a/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+ &nbsp; <a href="https:/www.linkedin.com/in/badramassmir/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:bare.amassmir@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p> 
 
